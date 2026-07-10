@@ -1,0 +1,10 @@
+Package: open-data-translation
+Title: Helper functions for translating open data
+Version: 0.0.0.9000
+Authors@R: 
+    person("Peter", "Kraska", , "peter.kraska@dfo-mpo.gc.ca", role = c("aut", "cre"))
+Description: Helper functions for translating open data.
+License:`use_gpl3_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.0.0
